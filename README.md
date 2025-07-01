@@ -36,9 +36,22 @@ Curious by nature and structured in execution, I thrive in environments that val
 ### 🔗 Connect with Me
 
 <p>
-<a href="https://github.com/mounikaaddula"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/addula-mounika"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:addulamounika2509@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
+
+---
+
+### 🚀 Projects
+
+#### ☁️ [Cloud Security with AWS IAM](https://github.com/addula-mounika12/aws-iam-cloud-security)   
+A real-world IAM simulation using EC2 and custom IAM policies to enforce least privilege access for dev and prod environments. Includes user-group mapping, AWS Policy Simulator, and access control validation.
+
+ 
+
+---
+
+#### 🔐 [Secure Secrets with AWS Secrets Manager](https://github.com/addula-mounika12/-Secure-Secrets-with-AWS-Secrets-Manager) 
+Replaces hardcoded AWS credentials with runtime secrets management using AWS Secrets Manager. Demonstrates detection via GitHub secret scanning, secure integration with `boto3`, and commit history scrubbing for secure version control.
 
