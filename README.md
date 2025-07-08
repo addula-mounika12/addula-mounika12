@@ -10,7 +10,7 @@ I hold a Master’s degree in Information Technology and Management from <strong
 </p>
 
 <p>
-I’m drawn to security challenges where precision matters—where security must enable, not obstruct. From automating onboarding and enforcing least privilege, to identifying misconfigurations and preparing for audits, I aim to deliver <strong>seamless, scalable, and secure identity solutions</strong>.
+I’m drawn to security challenges where precision matters where security must enable, not obstruct. From automating onboarding and enforcing least privilege, to identifying misconfigurations and preparing for audits, I aim to deliver <strong>seamless, scalable, and secure identity solutions</strong>.
 </p>
 
 <p>
