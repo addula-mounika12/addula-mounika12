@@ -55,3 +55,10 @@ A real-world IAM simulation using EC2 and custom IAM policies to enforce least p
 #### 🔐 [Secure Secrets with AWS Secrets Manager](https://github.com/addula-mounika12/-Secure-Secrets-with-AWS-Secrets-Manager) 
 Replaces hardcoded AWS credentials with runtime secrets management using AWS Secrets Manager. Demonstrates detection via GitHub secret scanning, secure integration with `boto3`, and commit history scrubbing for secure version control.
 
+
+
+---
+
+
+#### 🔐 Encrypt Data at Rest with AWS KMS
+Implements customer-managed key encryption for DynamoDB using AWS KMS to enforce data-at-rest protection. Demonstrates IAM-based key access control, transparent encryption-decryption workflow validation, and secure permission testing with unauthorized/authorized IAM users.
