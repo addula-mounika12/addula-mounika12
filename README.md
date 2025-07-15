@@ -60,5 +60,5 @@ Replaces hardcoded AWS credentials with runtime secrets management using AWS Sec
 ---
 
 
-#### 🔐 Encrypt Data at Rest with AWS KMS
+#### 🔐 [Encrypt Data at Rest with AWS KMS](https://github.com/addula-mounika12/Encrypt-Data-at-Rest-with-AWS-KMS/tree/main)
 Implements customer-managed key encryption for DynamoDB using AWS KMS to enforce data-at-rest protection. Demonstrates IAM-based key access control, transparent encryption-decryption workflow validation, and secure permission testing with unauthorized/authorized IAM users.
